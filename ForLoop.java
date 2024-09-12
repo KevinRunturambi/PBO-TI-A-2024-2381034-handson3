@@ -1,5 +1,3 @@
-package handson1;
-
 public class ForLoop {
     public static void main(String[] args) {
         String[] buah = new String[] {"Apel", "Mangga", "Jeruk"};

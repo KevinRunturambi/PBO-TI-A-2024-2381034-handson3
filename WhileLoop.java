@@ -1,5 +1,3 @@
-package handson1;
-
 public class WhileLoop {
     public static void main(String[] args) {
         String[] kumpulanBuah = new String[] {"Apel", "Pisang", "Mangga", "Jeruk"};
